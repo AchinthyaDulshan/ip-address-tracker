@@ -11,8 +11,8 @@ export default {
         "Dark-Gray": "hsl(0, 0%, 59%)"
       },
       backgroundImage:{
-        "pattern-bg-mobile":"url('src/assets/images/pattern-bg-mobile.png')",
-        "pattern-bg-desktop":"url('src/assets/images/pattern-bg-desktop.png')"
+        "pattern-bg-mobile":"url('/pattern-bg-mobile.png')",
+        "pattern-bg-desktop":"url('/pattern-bg-desktop.png')"
       }
     },
   },

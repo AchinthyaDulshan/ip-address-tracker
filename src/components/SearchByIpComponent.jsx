@@ -26,7 +26,7 @@ const SearchByIpComponent = ({setLatitude,setLongitude}) => {
             setIp(data.ip);
             setLocation(data.location.region + ", " + data.location.country);
             setTimezone(data.location.timezone);
-            setIsp(data.isp || '--');
+            setIsp(data.isp || '');
             setLatitude(data.location.lat);
             setLongitude(data.location.lng);
         } catch (error) {
