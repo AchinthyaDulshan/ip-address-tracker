@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [GitHub Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/ip-address-tracker-using-react-and-tailwind-xOU298dHpF)
+- Live Site URL: [GitHub Pages](https://achinthyadulshan.github.io/ip-address-tracker/)
 
 ## My process
 
