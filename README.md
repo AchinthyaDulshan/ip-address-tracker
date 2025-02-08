@@ -12,7 +12,6 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
   - [Built with](#built-with)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -27,11 +26,12 @@ Users should be able to:
 ### Screenshot
 
 ### Screenshot - Desktop View
+
 ![](src/assets/design/desktopViewIpTracker.png.png)
 
 ### Screenshot - Mobile View
-![](src/assets/design/mobileViewIpTracker.png)
 
+![](src/assets/design/mobileViewIpTracker.png)
 
 ### Links
 
@@ -46,8 +46,10 @@ Users should be able to:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
+- [IP Geolocation API](https://geo.ipify.org/)
+- [Leaflet](https://leafletjs.com/)
+- [OpenStreetMap](https://www.openstreetmap.org/)
 - Desktop-first workflow
-
 
 ## Author
 
